@@ -1,0 +1,6 @@
+{
+  "name": "MicroVideo - Kompresor Video Ekstrem",
+  "description": "Alat web kompresor video modern untuk memperkecil ukuran video besar hingga 90% (500 MB ke 50 MB) langsung di browser tanpa upload server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

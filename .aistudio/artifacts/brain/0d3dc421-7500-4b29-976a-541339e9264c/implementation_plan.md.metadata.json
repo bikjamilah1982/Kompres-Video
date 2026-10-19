@@ -1,0 +1,6 @@
+{
+  "summary": "Pembaruan rencana implementasi dengan penambahan mode kompresi ekstrem 90% (10x lipat lebih kecil, seperti 500 MB menjadi 50 MB) menggunakan algoritma kalkulasi bitrate adaptif, optimasi resolusi pintar, kompresi audio efisiensi tinggi, dan input target ukuran MB kustom.",
+  "updatedAt": "2026-10-19T03:34:20.432756641Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
